@@ -1,0 +1,102 @@
+SciDAVis 1.18.0 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+8203
+<table creation_time="2019-20-04 18:51:33:000" caption_spec="%n%C{ - }%c" name="Table1" columns="6" rows="30"><comment><![CDATA[]]></comment><column creation_time="2019-20-04 18:51:33:747" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:51:33:747" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:51:33:747" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.0200000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.0400000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.0600000000000001e+00</row><row type="TypeDouble" index="3" invalid="no">1.0800000000000001e+00</row><row type="TypeDouble" index="4" invalid="no">1.1000000000000001e+00</row><row type="TypeDouble" index="5" invalid="no">1.1200000000000001e+00</row><row type="TypeDouble" index="6" invalid="no">1.1399999999999999e+00</row><row type="TypeDouble" index="7" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="8" invalid="no">1.1799999999999999e+00</row><row type="TypeDouble" index="9" invalid="no">1.2000000000000000e+00</row></column><column creation_time="2019-20-04 18:51:33:748" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:51:33:748" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:51:33:748" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.2467660000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.4889120000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.6329899999999999e+00</row><row type="TypeDouble" index="3" invalid="no">1.4186060000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.5480320000000001e+00</row><row type="TypeDouble" index="5" invalid="no">1.2708820000000001e+00</row><row type="TypeDouble" index="6" invalid="no">1.3661410000000000e+00</row><row type="TypeDouble" index="7" invalid="no">1.3070889999999999e+00</row><row type="TypeDouble" index="8" invalid="no">1.2100430000000000e+00</row><row type="TypeDouble" index="9" invalid="no">1.2409530000000000e+00</row></column><column creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="3" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">0.016908</row><row type="TypeQString" index="1" invalid="no">0.020468</row><row type="TypeQString" index="2" invalid="no">0.022475</row><row type="TypeQString" index="3" invalid="no">0.018562</row><row type="TypeQString" index="4" invalid="no">0.022170</row><row type="TypeQString" index="5" invalid="no">0.018352</row><row type="TypeQString" index="6" invalid="no">0.018964</row><row type="TypeQString" index="7" invalid="no">0.018213</row><row type="TypeQString" index="8" invalid="no">0.017132</row><row type="TypeQString" index="9" invalid="no">0.017794</row></column><column creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="4" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">0.056992</row><row type="TypeQString" index="1" invalid="no">0.102726</row><row type="TypeQString" index="2" invalid="no">0.108622</row><row type="TypeQString" index="3" invalid="no">0.024023</row><row type="TypeQString" index="4" invalid="no">-0.026293</row><row type="TypeQString" index="5" invalid="no">0.030131</row><row type="TypeQString" index="6" invalid="no">-0.027945</row><row type="TypeQString" index="7" invalid="no">0.016401</row><row type="TypeQString" index="8" invalid="no">-0.047134</row><row type="TypeQString" index="9" invalid="no">-0.012575</row></column><column creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="5" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:52:09:879" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:52:09:879" caption_spec="%n%C{ - }%c" name="OutputFilter" format="E" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.4668249999999995e-02</row><row type="TypeDouble" index="1" invalid="no">2.3696620000000002e-02</row><row type="TypeDouble" index="2" invalid="no">1.7570869999999999e-02</row><row type="TypeDouble" index="3" invalid="no">1.9508399999999999e-02</row><row type="TypeDouble" index="4" invalid="no">1.5404670000000001e-02</row><row type="TypeDouble" index="5" invalid="no">1.6861259999999999e-02</row><row type="TypeDouble" index="6" invalid="no">1.6297519999999999e-02</row><row type="TypeDouble" index="7" invalid="no">8.6191680000000000e-03</row><row type="TypeDouble" index="8" invalid="no">7.9370520000000000e-03</row><row type="TypeDouble" index="9" invalid="no">6.3412390000000003e-03</row></column><column creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="6" type="TypeQString" mode="Text" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-20-04 18:51:56:651" caption_spec="%n%C{ - }%c" name="OutputFilter" filter_name="SimpleCopyThroughFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeQString" index="0" invalid="no">7.154138E-04</row><row type="TypeQString" index="1" invalid="no">3.104412E-04</row><row type="TypeQString" index="2" invalid="no">1.891415E-04</row><row type="TypeQString" index="3" invalid="no">2.565568E-04</row><row type="TypeQString" index="4" invalid="no">1.598352E-04</row><row type="TypeQString" index="5" invalid="no">1.808723E-04</row><row type="TypeQString" index="6" invalid="no">2.244977E-04</row><row type="TypeQString" index="7" invalid="no">1.635743E-04</row><row type="TypeQString" index="8" invalid="no">1.090781E-04</row><row type="TypeQString" index="9" invalid="no">7.538460E-05</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width><column_width column="4">120</column_width><column_width column="5">120</column_width></table>
+geometry	0	0	922	448	
+
+</table>
+<multiLayer>
+Graph1	1	1	20-04-2019 18:56:07
+geometry	562	72	818	605	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	420	289
+Alignement	0	0
+<graph>
+ggeometry	7	7	794	523
+PlotTitle		#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles		ϰ(T)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	14	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	11	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	11	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	11	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	11	75	0	0	0
+AxisFont0	MS Shell Dlg 2	11	50	0	0	0
+AxisFont1	MS Shell Dlg 2	11	50	0	0	0
+AxisFont2	MS Shell Dlg 2	11	50	0	0	0
+AxisFont3	MS Shell Dlg 2	11	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Table1_1	Table1_5	1	0	0	0	1	7	1	0	0	0	0	14	0	2	0	0	29	1
+FunctionCurve	0,NonLinearFit1,x,1.02,1.2	100			0	1	1	0	1	0	0	0	19	0	0	14	0	2	0	93060424	768	1
+<formula>
+A=0.00817131238651917
+b=0.0973878217696509
+K=1.00991821471116
+
+A *e^(b/((x - K)/K)^0.7)
+
+
+
+</formula>
+scale	0	0	0.1	0	8	5	0	0
+scale	1	0	0.1	0	8	5	0	0
+scale	2	1	1.25	0	8	5	0	0
+scale	3	1	1.25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<text>	1.05393586005831	0.0792099792099792	MS Shell Dlg 2	7	50	0	0	0	#000000	1	0	#ffffff	0	A  = 0.00817131238651917 +/- 0.00205990329399361	b  = 0.0973878217696509 +/- 0.0399555555837267	T<sub>KT</sub>  = 1.00991821471116 +/- 0.00451987152014529	----------------------------------------------------------------	Chi^2 = 0.000100953034504012	R^2 = 0.983255547564952</text>
+</graph>
+</multiLayer>
+<log>
+[20-04-2019 18:54:18	Plot: ''Graph1'']
+Non-linear fit of dataset: Table1_5, using function: A *e^(b/((x - K)/K)^0.7)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 1.02 to x = 1.2
+A  = 0.00817130437361763 +/- 0.00205990331677504
+b  = 0.0973891820155547 +/- 0.0399558150074554
+K  = 1.00991800995017 +/- 0.00451991616400697
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000100953034495699
+R^2 = 0.983255547566331
+---------------------------------------------------------------------------------------
+Iterations = 15
+Status = success
+---------------------------------------------------------------------------------------
+[20-04-2019 18:56:22	Plot: ''Graph1'']
+Non-linear fit of dataset: Table1_5, using function: A *e^(b/((x - K)/K)^0.7)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 1.02 to x = 1.2
+A  = 0.00817131238651917 +/- 0.00205990329399361
+b  = 0.0973878217696509 +/- 0.0399555555837267
+K  = 1.00991821471116 +/- 0.00451987152014529
+--------------------------------------------------------------------------------------
+Chi^2 = 0.000100953034504012
+R^2 = 0.983255547564952
+---------------------------------------------------------------------------------------
+Iterations = 13
+Status = success
+---------------------------------------------------------------------------------------
+</log>
