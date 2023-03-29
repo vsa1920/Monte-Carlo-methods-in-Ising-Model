@@ -30,6 +30,6 @@ Has important functions needed during simulations such as evaltuation of energy 
 To get an imshow image of any state, copy and paste the state text file to State plots and run State_plots.py.
 
 THE RUNTIME FOR EACH STEP MIGHT BE FROM 2-3 HOURS. TO SAMPLE A SMALLER SIMULATION, REDUCE THE TIME VARIABLES AT THE START OF THE CODE AND RUN FOR ONE OR
-TWO TEMPERATURES IN THE T_lst AT A TIME. THE RUNTIME OF PARALLE TEMPERING IS A FEW MINUTES.
+TWO TEMPERATURES IN THE T_lst AT A TIME. THE RUNTIME OF PARALLEL TEMPERING IS A FEW MINUTES.
 
 
